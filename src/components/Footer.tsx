@@ -10,9 +10,9 @@ export const Footer = () => {
         />
 
         <p className="mt-4">
-          "Preserving history, honoring heroes, and inspiring unity. Join us in
-          celebrating the legacy of Bangladesh's freedom fighters. Together, we
-          write the chapters of our nation's pride."
+          Preserving history, honoring heroes, and inspiring unity. Join us in
+          celebrating the legacy of Bangladesh&apos;s freedom fighters.
+          Together, we write the chapters of our nation&apos;s pride.
         </p>
       </div>
 
